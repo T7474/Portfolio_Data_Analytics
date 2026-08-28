@@ -7,7 +7,7 @@ Former Material Control & Inventory Specialist with **5+ years of domain experie
 
 ### 🛠️ Technical Skills
 
-* **Data Analysis & Automation:** Advanced Excel (VBA/Macros), SQL, Python (Pandas, NumPy)
+* **Data Analysis & Automation:** Advanced Excel (VBA/Macros), SQL, Python (Pandas)
 * **Data Visualization:** Power BI, Looker Studio, Interactive Dashboards
 * **Domain Expertise:** Inventory Management, Supply Chain Analytics, Demand Forecasting, ABC Analysis
 
