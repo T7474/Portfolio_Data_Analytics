@@ -15,7 +15,9 @@ Former Material Control & Inventory Specialist with **5+ years of domain experie
 
 ### 🚀 Featured Analytics Projects
 
-#### 📌 [Retail Sales & Inventory Intelligence Dashboard](https://github.com/T7474/Portfolio_Data_Analytics)
+#### 📌
+<img width="1405" height="790" alt="image" src="https://github.com/user-attachments/assets/30c36765-6621-407a-be4b-a085645cd1d8" />
+
 * **Tech Stack:** Power BI, Advanced Excel (VBA), SQL
 * **Objective:** Analyzed 302+ SKUs to optimize inventory turnover and warehouse layout.
 * **Key Impact:** Reduced material preparation time by **15%** and total holding cost value by **23%**.
