@@ -16,8 +16,7 @@ Former Material Control & Inventory Specialist with **5+ years of domain experie
 ### 🚀 Featured Analytics Projects
 
 #### 📌
-<img width="1407" height="789" alt="image" src="https://github.com/user-attachments/assets/dc902f10-c265-46ce-9005-6ef33899bf26" />
-
+<img width="1401" height="790" alt="image" src="https://github.com/user-attachments/assets/993f77f2-ba26-409b-92cd-9daf55fb22d0" />
 
 * **Tech Stack:** Power BI, Advanced Excel (VBA), SQL
 * **Objective:** Analyzed 302+ SKUs to optimize inventory turnover and warehouse layout.
