@@ -15,7 +15,7 @@ Former Material Control & Inventory Specialist with **5+ years of domain experie
 
 ### 🚀 Featured Analytics Projects
 
-#### 📌
+#### 📌[Automated Inventory Data Entry Workflow](https://github.com/T7474/Portfolio_Data_Analytics)
 <img width="2528" height="1420" alt="image" src="https://github.com/user-attachments/assets/839d0ad2-f12a-4e69-80fd-30fde6bb5ffc" />
 
 * **Tech Stack:** Python (Pandas), Power BI
