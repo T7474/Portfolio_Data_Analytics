@@ -16,11 +16,11 @@ Former Material Control & Inventory Specialist with **5+ years of domain experie
 ### 🚀 Featured Analytics Projects
 
 #### 📌
-<img width="1401" height="790" alt="image" src="https://github.com/user-attachments/assets/993f77f2-ba26-409b-92cd-9daf55fb22d0" />
+<img width="2528" height="1420" alt="image" src="https://github.com/user-attachments/assets/839d0ad2-f12a-4e69-80fd-30fde6bb5ffc" />
 
-* **Tech Stack:** Power BI, API
-* **Objective:** Analyzed 300+ SKUs to optimize inventory turnover and warehouse layout.
-* **Key Impact:** Reduced material holding cost value by **23%**.
+* **Tech Stack:** Python (Pandas), Power BI
+* **Objective:** Cleaned and analyzed 4,700+ crime incident records across multiple states, cities, and districts, and built an interactive Power BI dashboard tracking case volume, financial loss, arrests, and resolution status.
+* **Key Impact:** Identified an 11% YoY drop in total cases alongside a 7.4% reduction in total property loss (USD 17.45M), while improving the online reporting rate to 46.3% — surfacing actionable trends by crime type, status, and officer performance.
 
 #### 📌 [Automated Inventory Data Entry Workflow](https://github.com/T7474/Portfolio_Data_Analytics)
 * **Tech Stack:** Excel VBA / Macros
