@@ -19,7 +19,7 @@ Former Material Control & Inventory Specialist with **5+ years of domain experie
 * **Tech Stack:** CSV, Python(Pandas), Power Query, DAX, Power BI
 * **Objective:** Categorized inventory using ABC Analysis (Pareto Principle) to optimize warehouse picking routes and prioritize high-frequency SKUs, reducing overall order fulfillment time.
 * **Key Impact:** Reduced operational time by 15% by streamlining the picking sequence, enabling warehouse staff to focus on fast-moving Class A SKUs (accounting for 81.88% of total sales volume) and optimizing inventory placement.
-* 
+
 ---
 ### 📫 Connect with Me:
 * **Email:** veeradet.boat@gmail.com
