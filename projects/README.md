@@ -9,13 +9,17 @@ Former Material Control & Inventory Specialist with **5+ years of domain experie
 #### 📌[Slow Move Analysis Workflow]
 <img width="1402" height="784" alt="image" src="https://github.com/user-attachments/assets/7e3109cc-7494-4573-9d95-3dc30b7b205f" />
 
-* **Tech Stack:** CSV, Power Query, DAX, Power BI
-* **Objective:** Cleaned, transformed, and analyzed inventory SKU categories using Python, and developed a Power BI dashboard tracking stock aging velocity, SKU valuation, and capital lockup.
-* **Key Impact:** Tracked a 34.5% downward trend in dormant inventory value to $6.07M, identified Rubber Seals as the top capital risk driver ($3.7M), and categorized 22.8% of assets into 24m+ dead stock for immediate procurement and clearance intervention.
+* **Tech Stack:** CSV, Python(Pandas), Power Query, DAX, Power BI
+* **Objective:** Cleaned, transformed, and analyzed inventory SKU data to develop an interactive Power BI dashboard for tracking stock aging velocity, SKU valuation, and capital lockup.
+* **Key Impact:** Identified a 34.5% downward trend in dormant inventory value (from $9.27M down to $6.07M), pinpointed RUBBER SEAL as the primary capital risk driver ($3.7M), and categorized 22.8% of assets into 24+ months dead stock—enabling procurement to execute targeted clearance interventions.
 
 #### 📌[ABC Classification Analysis Workflow]
 <img width="1402" height="784" alt="image" src="https://github.com/user-attachments/assets/e3b2e21f-7906-4182-8cb0-705ac84bdd0e" />
 
+* **Tech Stack:** CSV, Python(Pandas), Power Query, DAX, Power BI
+* **Objective:** Categorized inventory using ABC Analysis (Pareto Principle) to optimize warehouse picking routes and prioritize high-frequency SKUs, reducing overall order fulfillment time.
+* **Key Impact:** Reduced operational time by 15% by streamlining the picking sequence, enabling warehouse staff to focus on fast-moving Class A SKUs (accounting for 81.88% of total sales volume) and optimizing inventory placement.
+* 
 ---
 ### 📫 Connect with Me:
 * **Email:** veeradet.boat@gmail.com
