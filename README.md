@@ -1,33 +1,18 @@
 # Hi there, I'm Supachai (Boat) 👋 
-### Data Analyst | Operations & Supply Chain Specialist
+### Data Analyst & Inventory Analyst
 
 Former Material Control & Inventory Specialist with **5+ years of domain experience**, transitioning into **Data Analytics**. Passionate about leveraging data to optimize operational processes, forecast demand, and build automated reporting tools.
 
----
-
-### 🛠️ Technical Skills
-
-* **Data Analysis & Automation:** Advanced Excel (VBA/Macros), SQL, Python (Pandas)
-* **Data Visualization:** Power BI, Looker Studio, Interactive Dashboards
-* **Domain Expertise:** Inventory Management, Supply Chain Analytics, Demand Forecasting, ABC Analysis
-
----
 
 ### 🚀 Featured Analytics Projects
 
-#### 📌[Crime Incident Messy Workflow]([Python/Crime Incident Messy](https://github.com/T7474/Portfolio_Data_Analytics/tree/main/Python/Crime%20Incident%20Messy))
-<img width="2528" height="1420" alt="image" src="https://github.com/user-attachments/assets/839d0ad2-f12a-4e69-80fd-30fde6bb5ffc" />
+#### 📌[Slow Move Analysis Workflow]([Python/Crime Incident Messy](https://github.com/T7474/Portfolio_Data_Analytics/tree/main/Python/Crime%20Incident%20Messy))
+<img width="1402" height="784" alt="image" src="https://github.com/user-attachments/assets/7e3109cc-7494-4573-9d95-3dc30b7b205f" />
 
-* **Tech Stack:** Python (Pandas), Power BI
-* **Objective:** Cleaned and analyzed 4,700+ crime incident records across multiple states, cities, and districts, and built an interactive Power BI dashboard tracking case volume, financial loss, arrests, and resolution status.
-* **Key Impact:** Identified an 11% YoY drop in total cases alongside a 7.4% reduction in total property loss (USD 17.45M), while improving the online reporting rate to 46.3% — surfacing actionable trends by crime type, status, and officer performance.
-
-#### 📌 [Automated Inventory Data Entry Workflow](https://github.com/T7474/Portfolio_Data_Analytics)
-* **Tech Stack:** Excel VBA / Macros
-* **Objective:** Streamlined daily stock ingestion and report generation process.
-* **Key Impact:** Reduced manual data entry time by **85%**.
+* **Tech Stack:** CSV, Power Query, DAX, Power BI
+* **Objective:** Cleaned, transformed, and analyzed 230K+ inventory units across industrial SKU categories using Python, and developed a Power BI dashboard tracking stock aging velocity, SKU valuation, and capital lockup.
+* **Key Impact:**Tracked a 34.5% downward trend in dormant inventory value to $6.07M, identified Rubber Seals as the top capital risk driver ($3.7M), and categorized 22.8% of assets into 24m+ dead stock for immediate procurement and clearance intervention.
 
 ---
-
 ### 📫 Connect with Me:
 * **Email:** veeradet.boat@gmail.com
