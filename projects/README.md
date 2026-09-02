@@ -11,7 +11,7 @@ Former Material Control & Inventory Specialist with **5+ years of domain experie
 
 * **Tech Stack:** CSV, Power Query, DAX, Power BI
 * **Objective:** Cleaned, transformed, and analyzed 230K+ inventory units across industrial SKU categories using Python, and developed a Power BI dashboard tracking stock aging velocity, SKU valuation, and capital lockup.
-* **Key Impact:**Tracked a 34.5% downward trend in dormant inventory value to $6.07M, identified Rubber Seals as the top capital risk driver ($3.7M), and categorized 22.8% of assets into 24m+ dead stock for immediate procurement and clearance intervention.
+* **Key Impact:** Tracked a 34.5% downward trend in dormant inventory value to $6.07M, identified Rubber Seals as the top capital risk driver ($3.7M), and categorized 22.8% of assets into 24m+ dead stock for immediate procurement and clearance intervention.
 
 ---
 ### 📫 Connect with Me:
