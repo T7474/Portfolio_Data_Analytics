@@ -6,7 +6,7 @@ Former Material Control & Inventory Specialist with **5+ years of domain experie
 
 ### 🚀 Featured Analytics Projects
 
-#### 📌[Slow Move Analysis Workflow]([Python/Crime Incident Messy](https://github.com/T7474/Portfolio_Data_Analytics/tree/main/Python/Crime%20Incident%20Messy))
+#### 📌[Slow Move Analysis Workflow]
 <img width="1402" height="784" alt="image" src="https://github.com/user-attachments/assets/7e3109cc-7494-4573-9d95-3dc30b7b205f" />
 
 * **Tech Stack:** CSV, Power Query, DAX, Power BI
