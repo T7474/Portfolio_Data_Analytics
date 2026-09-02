@@ -1,5 +1,5 @@
 # Hi there, I'm Supachai (Boat) 👋 
-### Data Analyst 
+### Data Analyst & Inventory Analyst
 
 Former Material Control & Inventory Specialist with **5+ years of domain experience**, transitioning into **Data Analytics**. Passionate about leveraging data to optimize operational processes, forecast demand, and build automated reporting tools.
 
