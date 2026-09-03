@@ -14,8 +14,7 @@ Former Material Control & Inventory Specialist with **5+ years of domain experie
 * **Key Impact:** Identified a 34.5% downward trend in dormant inventory value (from $9.27M down to $6.07M), pinpointed RUBBER SEAL as the primary capital risk driver ($3.7M), and categorized 22.8% of assets into 24+ months dead stock—enabling procurement to execute targeted clearance interventions.
 
 #### 📌[ABC Classification Analysis Workflow]
-<img width="1303" height="735" alt="image" src="https://github.com/user-attachments/assets/4fc4ebce-7530-4860-953e-0ba20e62fd43" />
-
+<img width="1401" height="785" alt="image" src="https://github.com/user-attachments/assets/66aa5d16-adbf-4608-bad8-4fd9a09a25e1" />
 
 * **Tech Stack:** CSV, Python(Pandas), Power Query, DAX, Power BI
 * **Objective:** Categorized inventory using ABC Analysis (Pareto Principle) to optimize warehouse picking routes and prioritize high-frequency SKUs, reducing overall order fulfillment time.
